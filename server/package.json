@@ -1,0 +1,20 @@
+{
+  "name": "hms-interview-demo",
+  "version": "1.0.0",
+  "description": "Full-stack Node/Express backend for a Healthcare MVP live-coding exercise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": ["healthcare", "express", "api", "interview-demo", "mvp"],
+  "author": "Max Doppelt",
+  "license": "UNLICENSED",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
